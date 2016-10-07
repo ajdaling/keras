@@ -1,0 +1,4 @@
+#PBS -l walltime=00:59:00
+#PBS -l nodes=2:ppn=1
+
+python mnist_cnn.py
